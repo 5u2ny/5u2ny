@@ -39,6 +39,7 @@ Compares two prompt/model variants against a golden dataset and returns a leader
 category-level regression breakdown, and a decision memo with top risks and a recommended next
 action. Local, deterministic scoring — no paid APIs, no keys, no database.
 `Python · Streamlit · LLM evaluation · release discipline`
+&nbsp; → [**Read the case study**](https://sunnysoni.netlify.app/projects/evalforge)
 
 **[StudyDesk](https://github.com/5u2ny/studydesk-v2)** — *An assignment-first AI study workspace.*
 A local-first desktop app that turns "I have 8 tabs open to write one paper" into a single
@@ -46,12 +47,14 @@ workspace: three-panel assignment view, drag-to-cite from captured sources, a ST
 (calculator, formula book, similar-problem search), and one-click .docx export. Shipped as a
 tested MVP (400+ automated tests), built and reviewed across six incremental phases.
 `Electron · React · TypeScript · local-first AI · product shipping`
+&nbsp; → [**Read the case study**](https://sunnysoni.netlify.app/projects/studydesk)
 
 **[Instacart Basket Analysis](https://github.com/5u2ny/instacart-basket-analysis)** — *Turning order data into restocking decisions.*
-SQL + Tableau + an interactive web dashboard analyzing Instacart demand patterns to recommend
+SQL + Tableau + an interactive web dashboard analyzing 3.4M Instacart orders to recommend
 smarter restocking. The analyst muscle: from raw transactional data to a decision a category
 manager can act on.
 `SQL · Tableau · product analytics · data storytelling`
+&nbsp; → [**Read the case study**](https://sunnysoni.netlify.app/projects/instacart-basket-analysis)
 
 **[LinkedIn-Codex](https://github.com/5u2ny/linkedin-codex)** — *AI for the job search itself.*
 A Codex-native LinkedIn job-review and resume-tailoring dashboard — an applied AI-automation
