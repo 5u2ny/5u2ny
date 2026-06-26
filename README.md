@@ -143,6 +143,12 @@ market data to score portfolio risk, recommend stabilization or sale-review acti
 an owner-facing dashboard.
 `PropTech · real estate analytics · NOI · lease risk · asset management · Python`
 
+**[InsurTech Claims Loss Ratio Copilot](https://github.com/5u2ny/insurtech-claims-loss-ratio-copilot)** — *Claims triage, reserve adequacy, and loss-ratio pressure.*
+A synthetic insurance analytics pipeline that joins policies, claims, vendor performance, and
+portfolio thresholds to route claim priority, flag reserve/fraud/cycle risk, and generate a claims
+operations dashboard.
+`InsurTech · claims analytics · loss ratio · reserve risk · fraud signals · Python`
+
 > More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
@@ -179,7 +185,7 @@ rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
 [EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
-or [PropTech Portfolio Risk Optimizer](https://github.com/5u2ny/proptech-portfolio-risk-optimizer).
+or [InsurTech Claims Loss Ratio Copilot](https://github.com/5u2ny/insurtech-claims-loss-ratio-copilot).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
