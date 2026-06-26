@@ -137,6 +137,12 @@ signals, and intervention capacity to score persistence risk, route next-best in
 generate an education operations dashboard.
 `EdTech · student success · early warning · intervention analytics · Python · dashboarding`
 
+**[PropTech Portfolio Risk Optimizer](https://github.com/5u2ny/proptech-portfolio-risk-optimizer)** — *NOI, lease exposure, and asset-management decisions.*
+A synthetic real estate analytics pipeline that joins property, financial, lease, maintenance, and
+market data to score portfolio risk, recommend stabilization or sale-review actions, and generate
+an owner-facing dashboard.
+`PropTech · real estate analytics · NOI · lease risk · asset management · Python`
+
 > More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
@@ -173,7 +179,7 @@ rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
 [EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
-or [EdTech Student Success Early Warning](https://github.com/5u2ny/edtech-student-success-early-warning).
+or [PropTech Portfolio Risk Optimizer](https://github.com/5u2ny/proptech-portfolio-risk-optimizer).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
