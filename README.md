@@ -113,6 +113,12 @@ orders, and supplier performance to score stockout risk, recommend reorder quant
 risk, and generate an executive replenishment dashboard.
 `Supply chain · logistics analytics · inventory risk · supplier reliability · Python · dashboarding`
 
+**[Cybersecurity GRC Alert Triage](https://github.com/5u2ny/cybersecurity-grc-alert-triage)** — *Incident priority, control mapping, and evidence gaps.*
+A synthetic security operations and GRC pipeline that joins alerts, asset criticality, MITRE tactics,
+controls, and evidence freshness to score incident risk, assign priority/SLA, map controls, and
+generate a CISO-ready dashboard.
+`Cybersecurity · GRC · SOC2 controls · MITRE mapping · Python · dashboarding`
+
 > More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
@@ -149,7 +155,7 @@ rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
 [EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
-or [Supply Chain Risk Replenishment Engine](https://github.com/5u2ny/supply-chain-risk-replenishment-engine).
+or [Cybersecurity GRC Alert Triage](https://github.com/5u2ny/cybersecurity-grc-alert-triage).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
