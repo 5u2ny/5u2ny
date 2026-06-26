@@ -119,6 +119,12 @@ controls, and evidence freshness to score incident risk, assign priority/SLA, ma
 generate a CISO-ready dashboard.
 `Cybersecurity · GRC · SOC2 controls · MITRE mapping · Python · dashboarding`
 
+**[HR Recruiting Ops Copilot](https://github.com/5u2ny/hr-recruiting-ops-copilot)** — *Candidate matching, funnel health, and outreach priority.*
+A synthetic recruiting operations pipeline that joins jobs, candidate profiles, interview signals,
+and outreach history to score role fit, identify close-now candidates, flag offer/time-to-close
+risk, and generate a hiring dashboard.
+`HR ops · recruiting analytics · candidate matching · funnel health · Python · dashboarding`
+
 > More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
@@ -155,7 +161,7 @@ rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
 [EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
-or [Cybersecurity GRC Alert Triage](https://github.com/5u2ny/cybersecurity-grc-alert-triage).
+or [HR Recruiting Ops Copilot](https://github.com/5u2ny/hr-recruiting-ops-copilot).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
