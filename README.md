@@ -101,6 +101,12 @@ signals into account health, churn risk, expansion readiness, forecast category,
 action. It generates account-level JSON outputs plus a board-ready dashboard.
 `SaaS · RevOps · GTM analytics · churn risk · Python · dashboarding`
 
+**[Retail Personalization Retention Engine](https://github.com/5u2ny/retail-personalization-retention-engine)** — *Customer lifecycle scoring and next-best offers.*
+A synthetic ecommerce growth pipeline that joins customer profiles, orders, engagement signals,
+loyalty tiers, and category affinity to score churn risk, label lifecycle stage, recommend
+personalized offers, and estimate incremental revenue.
+`Retail · ecommerce analytics · personalization · churn risk · Python · dashboarding`
+
 > More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
@@ -137,7 +143,7 @@ rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
 [EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
-or [SaaS RevOps Command Center](https://github.com/5u2ny/saas-revops-command-center).
+or [Retail Personalization Retention Engine](https://github.com/5u2ny/retail-personalization-retention-engine).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
