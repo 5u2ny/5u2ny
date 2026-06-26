@@ -1,37 +1,56 @@
 <!-- 5u2ny/5u2ny  —  GitHub profile README -->
 
 <h1 align="center">Sunny Soni</h1>
-<p align="center"><b>AI Product Manager</b> — I ship AI products, not just specs.</p>
+<p align="center"><b>AI Product Manager</b> — analytics, automations, agents, and shipped product systems.</p>
 
 <p align="center">
-  CS background, product judgment. I scope the problem, build the working prototype,
-  instrument the metrics, and write the release decision. The repos below are real,
-  running tools — not slide decks.
+  CS background, William & Mary MBA in Business Analytics, product judgment. I scope the
+  problem, build the working prototype, instrument the metrics, automate repeated work,
+  and write the release decision. The repos below connect to resume-backed work: AI PM,
+  product analytics, n8n workflows, agents, and dashboards.
 </p>
 
 <p align="center">
   <a href="https://sunnysoni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-sunnysoni.netlify.app-2563eb?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/sunnysonimba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sunnysonimba26@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-ea4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Open%20to%20work-AI%20PM%20%2F%20Product%20%26%20Data%20Analyst%20%2F%20AI%20Solutions-16a34a?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20to%20work-AI%20PM%20%2F%20Analytics%20%2F%20Automation%20%2F%20Agents-16a34a?style=flat-square">
 </p>
 
 ---
 
 ### What I do
 
-I sit where product strategy, data, and AI execution overlap. I turn a fuzzy problem into a
-shipped, measured product: define the job-to-be-done, prototype it myself, score it with real
-evaluation, and make a defensible ship / no-ship call. I am most useful on AI products where the
-hard part is judgment under uncertainty — non-deterministic outputs, unclear quality bars, and
-"is this actually better?" decisions.
+I sit where product strategy, analytics, AI execution, and workflow automation overlap. I turn a
+fuzzy problem into a shipped, measured product: define the job-to-be-done, prototype it myself,
+score it with real evaluation, and make a defensible ship / no-ship call. I am most useful on AI
+products where the hard part is judgment under uncertainty — non-deterministic outputs, unclear
+quality bars, and "is this actually better?" decisions.
 
-If a role needs someone who can talk to engineers, write SQL, design an eval, and still own the
-roadmap and the GTM narrative, that is the gap I fill.
+If a role needs someone who can talk to engineers, write SQL, design an eval, build n8n workflows,
+reason about agents, and still own the roadmap and GTM narrative, that is the gap I fill.
+
+Resume-backed proof points: 10+ PRDs, a 25-person cross-functional team, 70+ user stories synthesized
+via Reddit API, Tableau/SQL dashboards across 500+ B2B clients, 31% faster reporting turnaround,
+27% lead-to-customer conversion lift, 22% ARR increase, and 4x booked meetings from automated
+lead-capture and analytics pipelines.
 
 ---
 
 ### Featured work
+
+**[AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n)** — *36 production-grade AI workflows.*
+A practical n8n workflow portfolio for AI startup GTM and first-time AI adopters: lead generation,
+outbound, RAG, document intelligence, research workflows, support copilots, and internal ops.
+The point is not "I know n8n" — it is that I can map a messy business process, automate the
+repeatable parts, and leave a workflow another operator can understand.
+`n8n · AI automation · RAG · document intelligence · GTM systems`
+
+**[AI Agents Autonomous](https://github.com/5u2ny/AI-Agents-Autonomous)** — *Agent patterns beyond chat demos.*
+An agent-focused workspace for planning, tool use, workflow orchestration, and practical autonomous
+systems. I use this to explore where agents actually help: routing tasks, decomposing work, calling
+tools, keeping context, and handing a human a useful output instead of a vague answer.
+`AI agents · autonomous workflows · tool use · orchestration · prompt systems`
 
 **[EvalForge](https://github.com/5u2ny/evalforge)** — *Stop shipping prompt changes on vibes.*
 An open-source LLM regression-testing and release-decision tool for AI PMs and prompt owners.
@@ -45,15 +64,17 @@ action. Local, deterministic scoring — no paid APIs, no keys, no database.
 A local-first desktop app that turns "I have 8 tabs open to write one paper" into a single
 workspace: three-panel assignment view, drag-to-cite from captured sources, a STEM toolbelt
 (calculator, formula book, similar-problem search), and one-click .docx export. Shipped as a
-tested MVP (400+ automated tests), built and reviewed across six incremental phases.
-`Electron · React · TypeScript · local-first AI · product shipping`
+tested MVP (400+ automated tests), built and reviewed across six incremental phases. Resume version:
+an AI-agent-assisted Electron/React/TypeScript command center for courses, captures, deadlines, notes,
+and study workflows.
+`Electron · React · TypeScript · local-first AI · AI agents · product shipping`
 &nbsp; → [**Read the case study**](https://sunnysoni.netlify.app/projects/studydesk)
 
 **[Instacart Basket Analysis](https://github.com/5u2ny/instacart-basket-analysis)** — *Turning order data into restocking decisions.*
-SQL + Tableau + an interactive web dashboard analyzing 3.4M Instacart orders to recommend
-smarter restocking. The analyst muscle: from raw transactional data to a decision a category
-manager can act on.
-`SQL · Tableau · product analytics · data storytelling`
+SQL + Tableau + an interactive web dashboard analyzing Instacart order patterns to recommend
+smarter restocking, reorder timing, and inventory focus. The analyst muscle: from raw transactional
+data to a decision a category manager can act on.
+`SQL · Tableau · product analytics · dashboarding · data storytelling`
 &nbsp; → [**Read the case study**](https://sunnysoni.netlify.app/projects/instacart-basket-analysis)
 
 **[LinkedIn-Codex](https://github.com/5u2ny/linkedin-codex)** — *AI for the job search itself.*
@@ -61,9 +82,9 @@ A Codex-native LinkedIn job-review and resume-tailoring dashboard — an applied
 build that scopes a real workflow and wires an LLM into it end to end.
 `Python · AI automation · workflow tooling`
 
-> More: an [interactive course](https://github.com/5u2ny/antigravity-pm-course) teaching AI-powered
-> productivity to PMs, and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor
-> built as an engineering take-home.
+> More: [fraud-compliance-demo](https://github.com/5u2ny/fraud-compliance-demo) for analytics and
+> compliance workflows, an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
+> and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
 ---
 
@@ -71,18 +92,21 @@ build that scopes a real workflow and wires an LLM into it end to end.
 
 | Lens | What that looks like in my work |
 |---|---|
-| **Product** | Problem framing, JTBD, scoping, ship / no-ship decisions, release memos (EvalForge, StudyDesk) |
-| **Analytics** | SQL, dashboards, metric trees, regression analysis, evidence over vibes (Instacart, EvalForge scoring) |
-| **AI & Automation** | LLM evaluation, prompt/model comparison, local-first AI, workflow automation (EvalForge, LinkedIn-Codex, StudyDesk) |
+| **Product** | 10+ PRDs, 25-person cross-functional alignment, RICE prioritization, ship / no-ship decisions (IPSERLAB, EvalForge, StudyDesk) |
+| **Analytics** | SQL, Tableau, dashboards, metric trees, 500+ B2B client analytics, evidence over vibes (ASANIFY, Instacart, EvalForge scoring) |
+| **Automation** | n8n workflows, CRM automation, lead-capture pipelines, API wiring, RAG, support copilots (AI Automations n8n, LEADLE, ASANIFY) |
+| **Agents & AI Systems** | GPT-3.5 Constraint Engine, JSON prompt schemas, LLM evaluation, tool-use workflows, autonomous agent patterns |
 | **GTM & Strategy** | Positioning, narrative, developer-facing docs, turning a build into a story people understand |
 
 ---
 
 ### Toolbelt
 
-`Product` Roadmapping · PRDs · JTBD · experimentation · release decisions
-`Data` SQL · Tableau · pandas · metric design · A/B and regression thinking
-`AI` LLM evaluation · prompt engineering · RAG-free local-first patterns · Claude / Codex tooling
+`Product` PRDs · RICE · PLG · GTM · requirement gathering · stakeholder communication · Agile/Scrum
+`Analytics` SQL · Tableau · Google Analytics · Amplitude · Power BI · dashboards · A/B testing
+`Automation` n8n · REST APIs · CRM automation · RAG workflows · GTM systems · support copilots
+`Agents` AI agents · tool use · task decomposition · orchestration · memory/context patterns
+`AI` LLM evaluation · prompt engineering · strict JSON schemas · Constraint Engine · Claude / Codex tooling
 `Build` Python · TypeScript · React · Streamlit · Electron · Git
 
 ---
@@ -93,9 +117,9 @@ build that scopes a real workflow and wires an LLM into it end to end.
 Strategy & Operations roles.** Available now. I am building and open-sourcing AI tools that show,
 rather than claim, how I work.
 
-**The fastest way to evaluate me:** open [EvalForge](https://github.com/5u2ny/evalforge) or
-[StudyDesk](https://github.com/5u2ny/studydesk-v2) and read the decision memos and the commit
-history. That is how I actually think.
+**The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
+[EvalForge](https://github.com/5u2ny/evalforge), or [Instacart Basket Analysis](https://github.com/5u2ny/instacart-basket-analysis).
+That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
   <a href="mailto:sunnysonimba26@gmail.com"><b>sunnysonimba26@gmail.com</b></a> &nbsp;·&nbsp;
