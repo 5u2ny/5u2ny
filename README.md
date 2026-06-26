@@ -125,6 +125,12 @@ and outreach history to score role fit, identify close-now candidates, flag offe
 risk, and generate a hiring dashboard.
 `HR ops · recruiting analytics · candidate matching · funnel health · Python · dashboarding`
 
+**[Marketing Growth Attribution Engine](https://github.com/5u2ny/marketing-growth-attribution-engine)** — *Attribution, budget moves, and lifecycle automation.*
+A synthetic Growth Ops pipeline that joins campaign spend, web events, CRM pipeline, lifecycle
+automation, and content assets to score attribution, recommend budget shifts, and generate a
+marketing performance dashboard.
+`Growth ops · marketing analytics · attribution · n8n automation · Python · dashboarding`
+
 > More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
@@ -161,7 +167,7 @@ rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
 [EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
-or [HR Recruiting Ops Copilot](https://github.com/5u2ny/hr-recruiting-ops-copilot).
+or [Marketing Growth Attribution Engine](https://github.com/5u2ny/marketing-growth-attribution-engine).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
