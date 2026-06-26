@@ -131,6 +131,12 @@ automation, and content assets to score attribution, recommend budget shifts, an
 marketing performance dashboard.
 `Growth ops · marketing analytics · attribution · n8n automation · Python · dashboarding`
 
+**[EdTech Student Success Early Warning](https://github.com/5u2ny/edtech-student-success-early-warning)** — *Persistence risk, intervention routing, and advisor workload.*
+A synthetic student-success analytics pipeline that joins LMS activity, assessments, support
+signals, and intervention capacity to score persistence risk, route next-best interventions, and
+generate an education operations dashboard.
+`EdTech · student success · early warning · intervention analytics · Python · dashboarding`
+
 > More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
@@ -167,7 +173,7 @@ rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
 [EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
-or [Marketing Growth Attribution Engine](https://github.com/5u2ny/marketing-growth-attribution-engine).
+or [EdTech Student Success Early Warning](https://github.com/5u2ny/edtech-student-success-early-warning).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
