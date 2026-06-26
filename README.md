@@ -82,8 +82,20 @@ A Codex-native LinkedIn job-review and resume-tailoring dashboard — an applied
 build that scopes a real workflow and wires an LLM into it end to end.
 `Python · AI automation · workflow tooling`
 
-> More: [fraud-compliance-demo](https://github.com/5u2ny/fraud-compliance-demo) for analytics and
-> compliance workflows, an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
+**[Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo)** — *FinTech risk command center.*
+An end-to-end fraud and compliance workflow: transaction replay, risk scoring, deterministic rules,
+sanctions/PEP screening, live WebSocket dashboard, SAR draft artifacts, and executive fintech risk
+metrics. Built to show how raw transaction activity becomes analyst queues, audit evidence, and
+business-facing operating metrics.
+`FinTech · fraud analytics · compliance workflow · FastAPI · Next.js`
+
+**[Healthcare Document Intelligence Hub](https://github.com/5u2ny/healthcare-doc-intelligence-hub)** — *HealthTech document triage from synthetic notes.*
+A PHI-safe document-intelligence pipeline for claims, prior authorization, care gaps, billing
+exceptions, and medication adherence. It extracts fields, classifies work, routes each item to an
+ops queue, scores urgency, and generates an executive dashboard from synthetic intake notes.
+`HealthTech · document intelligence · workflow automation · Python · analytics`
+
+> More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
 ---
@@ -118,7 +130,8 @@ Strategy & Operations roles.** Available now. I am building and open-sourcing AI
 rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
-[EvalForge](https://github.com/5u2ny/evalforge), or [Instacart Basket Analysis](https://github.com/5u2ny/instacart-basket-analysis).
+[EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
+or [Healthcare Document Intelligence Hub](https://github.com/5u2ny/healthcare-doc-intelligence-hub).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
