@@ -107,6 +107,12 @@ loyalty tiers, and category affinity to score churn risk, label lifecycle stage,
 personalized offers, and estimate incremental revenue.
 `Retail · ecommerce analytics · personalization · churn risk · Python · dashboarding`
 
+**[Supply Chain Risk Replenishment Engine](https://github.com/5u2ny/supply-chain-risk-replenishment-engine)** — *Stockout risk, supplier reliability, and reorder decisions.*
+A synthetic operations analytics pipeline that joins SKU inventory, demand forecasts, open purchase
+orders, and supplier performance to score stockout risk, recommend reorder quantities, flag supplier
+risk, and generate an executive replenishment dashboard.
+`Supply chain · logistics analytics · inventory risk · supplier reliability · Python · dashboarding`
+
 > More: an [interactive AI productivity course](https://github.com/5u2ny/antigravity-pm-course),
 > and [Lazy-docs](https://github.com/5u2ny/Lazy-docs), a collaborative editor built as an engineering take-home.
 
@@ -143,7 +149,7 @@ rather than claim, how I work.
 
 **The fastest way to evaluate me:** open [AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n),
 [EvalForge](https://github.com/5u2ny/evalforge), [Fraud Compliance Demo](https://github.com/5u2ny/fraud-compliance-demo),
-or [Retail Personalization Retention Engine](https://github.com/5u2ny/retail-personalization-retention-engine).
+or [Supply Chain Risk Replenishment Engine](https://github.com/5u2ny/supply-chain-risk-replenishment-engine).
 That is the mix I bring: automate the workflow, evaluate the AI, and explain the analytics.
 
 <p align="center">
