@@ -6,8 +6,8 @@
 <p align="center">
   CS background, William & Mary MBA in Business Analytics, product judgment. I scope the
   problem, build the working prototype, instrument the metrics, automate repeated work,
-  and write the release decision. The repos below connect to resume-backed work: AI PM,
-  product analytics, n8n workflows, agents, and dashboards.
+  and write the release decision. The repos below cover AI product work, product analytics,
+  n8n workflows, agents, and dashboards.
 </p>
 
 <p align="center">
@@ -30,17 +30,10 @@ quality bars, and "is this actually better?" decisions.
 If a role needs someone who can talk to engineers, write SQL, design an eval, build n8n workflows,
 reason about agents, and still own the roadmap and GTM narrative, that is the gap I fill.
 
-Resume-backed proof points: 10+ PRDs, a 25-person cross-functional team, 70+ user stories synthesized
-via Reddit API, Tableau/SQL dashboards across 500+ B2B clients, 31% faster reporting turnaround,
-27% lead-to-customer conversion lift, 22% ARR increase, and 4x booked meetings from automated
-lead-capture and analytics pipelines.
-
----
-
 ### Featured work
 
 **[AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n)** — *36 production-grade AI workflows.*
-A practical n8n workflow portfolio for AI startup GTM and first-time AI adopters: lead generation,
+A practical n8n workflow collection for AI startup GTM and first-time AI adopters: lead generation,
 outbound, RAG, document intelligence, research workflows, support copilots, and internal ops.
 The point is not "I know n8n" — it is that I can map a messy business process, automate the
 repeatable parts, and leave a workflow another operator can understand.
@@ -64,9 +57,7 @@ action. Local, deterministic scoring — no paid APIs, no keys, no database.
 A local-first desktop app that turns "I have 8 tabs open to write one paper" into a single
 workspace: three-panel assignment view, drag-to-cite from captured sources, a STEM toolbelt
 (calculator, formula book, similar-problem search), and one-click .docx export. Shipped as a
-tested MVP (400+ automated tests), built and reviewed across six incremental phases. Resume version:
-an AI-agent-assisted Electron/React/TypeScript command center for courses, captures, deadlines, notes,
-and study workflows.
+tested MVP (400+ automated tests), built and reviewed across six incremental phases.
 `Electron · React · TypeScript · local-first AI · AI agents · product shipping`
 &nbsp; → [**Read the case study**](https://sunnysoni.netlify.app/projects/studydesk)
 
@@ -159,8 +150,8 @@ operations dashboard.
 | Lens | What that looks like in my work |
 |---|---|
 | **Product** | 10+ PRDs, 25-person cross-functional alignment, RICE prioritization, ship / no-ship decisions (IPSERLAB, EvalForge, StudyDesk) |
-| **Analytics** | SQL, Tableau, dashboards, metric trees, 500+ B2B client analytics, evidence over vibes (ASANIFY, Instacart, EvalForge scoring) |
-| **Automation** | n8n workflows, CRM automation, lead-capture pipelines, API wiring, RAG, support copilots (AI Automations n8n, LEADLE, ASANIFY) |
+| **Analytics** | SQL, Tableau, dashboards, metric trees, 500+ B2B client analytics, evidence over vibes (Instacart, EvalForge scoring) |
+| **Automation** | n8n workflows, CRM automation, lead-capture pipelines, API wiring, RAG, support copilots (AI Automations n8n) |
 | **Agents & AI Systems** | GPT-3.5 Constraint Engine, JSON prompt schemas, LLM evaluation, tool-use workflows, autonomous agent patterns |
 | **GTM & Strategy** | Positioning, narrative, developer-facing docs, turning a build into a story people understand |
 
