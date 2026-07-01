@@ -1,13 +1,12 @@
 <!-- 5u2ny/5u2ny  —  GitHub profile README -->
 
 <h1 align="center">Sunny Soni</h1>
-<p align="center"><b>AI Product Manager</b> — analytics, automations, agents, and shipped product systems.</p>
+<p align="center"><b>AI Product Manager</b> — practical AI systems, analytics, automation, and product execution.</p>
 
 <p align="center">
-  CS background, William & Mary MBA in Business Analytics, product judgment. I scope the
-  problem, build the working prototype, instrument the metrics, automate repeated work,
-  and write the release decision. The repos below cover AI product work, product analytics,
-  n8n workflows, agents, and dashboards.
+  CS background, William & Mary MBA in Business Analytics, and a bias for working software.
+  I turn messy business workflows into AI products people can test, trust, and operate:
+  define the use case, build the prototype, wire the data, measure quality, and decide what ships.
 </p>
 
 <p align="center">
@@ -21,19 +20,18 @@
 
 ### What I do
 
-I sit where product strategy, analytics, AI execution, and workflow automation overlap. I turn a
-fuzzy problem into a shipped, measured product: define the job-to-be-done, prototype it myself,
-score it with real evaluation, and make a defensible ship / no-ship call. I am most useful on AI
-products where the hard part is judgment under uncertainty — non-deterministic outputs, unclear
-quality bars, and "is this actually better?" decisions.
+I work best at the point where product judgment meets hands-on AI execution. Give me an unclear
+workflow, a noisy dataset, or a half-formed automation idea, and I will turn it into a product-shaped
+system: scoped, tested, measurable, and explainable enough for another operator to run.
 
-If a role needs someone who can talk to engineers, write SQL, design an eval, build n8n workflows,
-reason about agents, and still own the roadmap and GTM narrative, that is the gap I fill.
+My lane is practical AI: n8n workflows, agents, analytics dashboards, RAG systems, evals, and product
+decisions that do not hide behind demo polish. The question I keep coming back to is simple:
+does this make the work faster, clearer, or easier to trust?
 
 ### Featured work
 
 **[AI Automations n8n](https://github.com/5u2ny/ai-automations-n8n)** — *36 production-grade AI workflows.*
-A practical n8n workflow collection for AI startup GTM and first-time AI adopters: lead generation,
+A practical n8n workflow collection for AI startup GTM and AI enablement for SMBs: lead generation,
 outbound, RAG, document intelligence, research workflows, support copilots, and internal ops.
 The point is not "I know n8n" — it is that I can map a messy business process, automate the
 repeatable parts, and leave a workflow another operator can understand.
